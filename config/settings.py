@@ -1,0 +1,1 @@
+CHECK_WL_ROLE_NAME = "admin"
